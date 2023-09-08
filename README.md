@@ -7,12 +7,6 @@ Jason Heesang Lee
 
 
 <p align="center">
-  <img height="100px" src="https://github.com/subinium/kaggle-badge/blob/master/assets/logo.png" align="center" alt="GitHub Readme Stats" />
-  <br/>
-  
-</p>
-
-<p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/competition" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/dataset" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/notebook" />
