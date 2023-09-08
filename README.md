@@ -1,6 +1,6 @@
 <head>
 Hello!<br><br>
   <body>
-    <a>test</a>
+    <a>Main page currently in development</a>
   </body>
 </head>
