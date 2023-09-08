@@ -1,11 +1,14 @@
-Hello!<br>
+# This is Jason Heesang Lee
 =======================
-This is Jason Heesang Lee
+<img src="https://www.kaggle.com/static/images/site-logo.svg", width="300px" height="116px"></img><br/>
+Kaggle Expert
 -----------------------
-<br><br>
-# Main page currently in development
-## Please
-### Kindly
-#### Wait
-this /n
-hello
+## Stack
+- Python
+- Numpy
+- Pandas
+-----------------------
+## You can find me here
+##### [LinkedIn](https://www.linkedin.com/in/jasonheesanglee/)
+##### [Kaggle](https://www.kaggle.com/jasonheesanglee)
+
