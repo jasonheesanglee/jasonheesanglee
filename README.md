@@ -31,7 +31,7 @@ Jason Heesang Lee
 
 ## Focusing on
 - Natural Language Processing<br>
-- Phonogram & Ideogram Based Language Processing
+- [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
 
 ##### You can also find me here
 [<img src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/e1c39095-815f-43e4-becf-7cc5d6787238" width="20" />](https://www.linkedin.com/in/jasonheesanglee/) 
