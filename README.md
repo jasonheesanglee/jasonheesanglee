@@ -1,39 +1,29 @@
 Jason Heesang Lee
 =============
-<p align="center">
-    <img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> 
-    <img src="https://www.kaggle.com/static/images/tiers/expert@192.png" width="50" /> 
-</p>
+<img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/expert@192.png" width="50" /> 
 
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/competition" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/discussion" />
-    
-</p>
-
-
+![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonheesanglee&show_icons=true&hide_border=true)
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/notebook" />
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjasonheesanglee%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![jasonheesanglee](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jasonheesanglee)
 
+Languages & Stacks<br>
 
--------------
-
-## Stack
-- Python
-- Numpy
-- Pandas
-- PyTorch
-- to be added
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
+<code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/c7d66efc-c71a-4b55-9797-116c2c050d05"></code>
+<code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/cb0fee21-75dd-492e-a05a-ce9d32a27c26"></code>
+<code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/f3499d40-7c3f-4dc8-ac15-0eb671cf565e"></code>
+<code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/01d50f34-561e-4e61-b1d9-001c0da48dfb"></code>
+<code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/47418d98-12c2-4afb-a11a-bd6169ffcec5"></code>
 
 ## Focusing on
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
 
 ##### You can also find me here
-[<img src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/e1c39095-815f-43e4-becf-7cc5d6787238" width="20" />](https://www.linkedin.com/in/jasonheesanglee/) 
-[<img src="https://www.kaggle.com/static/images/site-logo.svg" height="20" />](https://www.kaggle.com/jasonheesanglee)
-[<img src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/8acbb86c-9359-42ff-830f-e3b7ba039ebf" width="20" />](https://www.instagram.com/jasonhslee/)
+<a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/506eab1c-b8a3-40c1-b54f-6ac38a3f0bae" height="20"></a>
+<a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"></a>
+<a href="https://www.instagram.com/jasonhslee"><img src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/8acbb86c-9359-42ff-830f-e3b7ba039ebf" height="20"> </a>
+
+------------------
