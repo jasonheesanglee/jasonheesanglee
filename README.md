@@ -22,8 +22,8 @@ Languages & Stacks<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
 
 ##### You can also find me here
-<a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/506eab1c-b8a3-40c1-b54f-6ac38a3f0bae" height="20"></a>
+<a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/LI-In-Bug.png" height="20"></a>
 <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"></a>
-<a href="https://www.instagram.com/jasonhslee"><img src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/8acbb86c-9359-42ff-830f-e3b7ba039ebf" height="20"> </a>
+<a href="https://www.instagram.com/jasonhslee"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/%E2%80%94Pngtree%E2%80%94instagram%20icon%20instagram%20logo_3584853.png" height="20"> </a>
 
 ------------------
