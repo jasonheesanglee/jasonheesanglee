@@ -1,4 +1,4 @@
-Jason Heesang Lee
+Jason Heesang Lee 이희상
 =============
 <img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/expert@192.png" width="50" /> 
 
