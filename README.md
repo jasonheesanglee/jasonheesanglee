@@ -21,7 +21,7 @@ Languages & Stacks<br>
 ## Focusing on
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
-###### *Disclaimer: Most of my work can be found on* *[Kaggle](https://www.kaggle.com/jasonheesanglee/code)*
+###### *[Disclaimer: Most of my work can be found on Kaggle](https://www.kaggle.com/jasonheesanglee/code)*
 ##### You can also find me here
 <a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/LI-In-Bug.png" height="20"></a>
 <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"></a>
