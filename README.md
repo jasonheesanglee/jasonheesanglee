@@ -3,7 +3,6 @@ Jason Heesang Lee 이희상
 <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/expert@192.png" width="50" /> 
 
 ![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonheesanglee&show_icons=true&hide_border=true)
-
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/notebook" />;
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/discussion" />
 
