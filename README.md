@@ -1,5 +1,5 @@
-Jason Heesang Lee 이희상
-=======================
+<h1 style="font-size:300%;">Jason Heesang Lee 이희상</h1>
+
 
 <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/expert@192.png" width="50" /> 
 
@@ -22,8 +22,10 @@ Languages & Stacks<br>
 ## Focusing on
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
-###### *[Disclaimer: Most of my work can be found on Kaggle](https://www.kaggle.com/jasonheesanglee/code)*
-###### You can also find me here
+
+*<a style="font-size:30%; font-style: italic; color:#808080;">Disclaimer: Most of my work can be found on [Kaggle](https://www.kaggle.com/jasonheesanglee)*</a><br>
+<span style="font-size: 30%; color: #808080;">You can also find me here</span>
+
 <a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/LI-In-Bug.png" height="20"></a>
 <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"></a>
 <a href="https://www.instagram.com/jasonhslee"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/%E2%80%94Pngtree%E2%80%94instagram%20icon%20instagram%20logo_3584853.png" height="20"> </a>
