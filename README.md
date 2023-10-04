@@ -11,7 +11,7 @@
 </div>
 <br><br>
 <div align="center">
-  Languages & Stacks<br>
+  **Languages & Stacks**<br>
   
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
   <code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/c7d66efc-c71a-4b55-9797-116c2c050d05"></code>
