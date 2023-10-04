@@ -21,10 +21,10 @@
   <code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/47418d98-12c2-4afb-a11a-bd6169ffcec5"></code>
 </div>
 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjasonheesanglee%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-![jasonheesanglee](https://road-to-kaggle-grandmaster.vercel.app/api/simple/jasonheesanglee)
-
+<div align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjasonheesanglee%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/jasonheesanglee">
+</div>
 
 -------------
 <b>Focusing on</b><br>
