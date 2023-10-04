@@ -23,9 +23,7 @@ Languages & Stacks<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
 
 
-$\textcolor{gray}{\textsf{Disclaimer: Most of my work can be found on Kaggle.}}$
-
-$\textcolor{gray}{\textsf{You can also find me here.}}$ 
+$\textcolor{gray}{\textsf{Disclaimer: Most of my work can be found on Kaggle.}}$<br>$\textcolor{gray}{\textsf{You can also find me here.}}$ 
 
 
 <a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/LI-In-Bug.png" height="20"></a>
