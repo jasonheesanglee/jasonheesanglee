@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/expert@192.png" width="50" /> 
+  <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/master@192.png" width="50" /> 
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonheesanglee&show_icons=true&hide_border=true" />
