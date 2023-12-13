@@ -31,6 +31,9 @@
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
 
+<sub>Please find my CV here : [Heesang_Lee_CV.pdf](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV.pdf)</sub><br>
+<sub>Please find my Portfolio here : [Heesang_Lee_Portfolio.pdf](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee%20Portfolio.pdf)</sub><br>
+
 
 $\textcolor{gray}{\textsf{Disclaimer: Most of my work can be found on Kaggle.}}$<br>$\textcolor{gray}{\textsf{You can also find me here.}}$ 
 
