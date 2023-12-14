@@ -27,6 +27,12 @@
 </div>
 
 -------------
+<b>Who am I?</b>
+- Through technology to enable people with disabilities to live barrier-free lives.<br>
+- Interested in new languages and cultures.<br>
+- Fluent in 3 languages, able to communicate in 2 more languages
+
+-------------
 <b>Focusing on</b><br>
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
