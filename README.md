@@ -30,7 +30,8 @@
 <b>Who am I?</b>
 - Through technology to enable people with disabilities to live barrier-free lives.<br>
 - Interested in new languages and cultures.<br>
-- Fluent in 3 languages, able to communicate in 2 more languages
+- Fluent in 3 languages, able to communicate in 2 more languages.<br>
+- Printed `Hello, World!` for the first time in March 2023.
 
 -------------
 <b>Focusing on</b><br>
