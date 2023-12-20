@@ -7,7 +7,7 @@
 </div>
     
 <div align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/dataset" /><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/notebook" /><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/discussion" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/competitions" /><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/dataset" /><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/notebook" /><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/jasonheesanglee/discussion" />
 </div>
 <br><br>
 <div align="center">
