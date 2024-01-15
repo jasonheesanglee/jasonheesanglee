@@ -40,8 +40,8 @@
 
 -------------
 <b>CV & Portfolio</b><br>
-Please find my CV here : [Heesang_Lee_CV.pdf](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV.pdf)<br>
-Please find my Portfolio here : [Heesang_Lee_Portfolio.pdf](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee%20Portfolio.pdf)<br>
+Please find my CV here : [ENGLISH](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV.pdf) or [KOREAN](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV_KR.pdf)<br>
+Please find my Portfolio here : [ENGLISH](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_EN.pdf) or [KOREAN](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_KR.pdf)<br>
 
 
 $\textcolor{gray}{\textsf{Disclaimer: Most of my work can be found on Kaggle.}}$<br>$\textcolor{gray}{\textsf{You can also find me here.}}$ 
