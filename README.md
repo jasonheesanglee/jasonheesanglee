@@ -17,8 +17,7 @@
   <code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/c7d66efc-c71a-4b55-9797-116c2c050d05"></code>
   <code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/cb0fee21-75dd-492e-a05a-ce9d32a27c26"></code>
   <code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/f3499d40-7c3f-4dc8-ac15-0eb671cf565e"></code>
-  <code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/01d50f34-561e-4e61-b1d9-001c0da48dfb"></code>
-  <code><img height="20" src="https://github.com/jasonheesanglee/jasonheesanglee/assets/123557477/47418d98-12c2-4afb-a11a-bd6169ffcec5"></code>
+
 </div>
 
 <div align="right">
@@ -43,8 +42,7 @@
 - Please find my CV here : [ENGLISH](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV.pdf) or [KOREAN](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV_KR.pdf)<br>
 - Please find my Portfolio here : [ENGLISH](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_EN.pdf) or [KOREAN](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_KR.pdf)<br>
 
-
-$\textcolor{gray}{\textsf{Disclaimer: Most of my work can be found on Kaggle.}}$<br>$\textcolor{gray}{\textsf{You can also find me here.}}$ 
+<sub>Disclaimer: Most of my work can be found on Kaggle.<br>You can also find me here.<sub>
 
 
 <a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/LI-In-Bug.png" height="20"></a>
