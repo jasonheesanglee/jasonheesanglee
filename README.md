@@ -32,13 +32,18 @@
 <b>Who am I?</b>
 - Through technology to enable people with disabilities to live barrier-free lives.<br>
 - Interested in new languages and cultures.<br>
-- Fluent in 3 languages (🇰🇷, 🇺🇸, 🇨🇳), and also able to communicate in 2 other languages(🇫🇷, 🇮🇩).<br>
+- Fluent in 3 languages 🇰🇷 🇺🇸 🇨🇳<br>Able to communicate in 2 other languages as well 🇫🇷 🇮🇩.<br>
 - Printed `Hello, World!` for the first time in March 2023.
 
 -------------
 <b>Focusing on</b><br>
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
+
+-------------
+<b>Redirect</b><br>
+- [Competition Log](https://github.com/jasonheesanglee/kaggle)<br>
+- [Theoretical Study Log](https://github.com/jasonheesanglee/theoretical_study)
 
 -------------
 <b>CV & Portfolio</b><br>
