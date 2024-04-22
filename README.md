@@ -36,11 +36,13 @@
 <b>Focusing on</b><br>
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
+- ChatBot with Emotion
 
 -------------
 <b>Redirect</b><br>
 - [Competition Log](https://github.com/jasonheesanglee/kaggle)<br>
 - [Theoretical Study Log](https://github.com/jasonheesanglee/theoretical_study)
+- [ChatGirlFriend](https://github.com/jasonheesanglee/chatgirlfriend)
 
 -------------
 <b>CV & Portfolio</b><br>
