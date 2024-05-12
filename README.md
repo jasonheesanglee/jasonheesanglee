@@ -42,7 +42,7 @@
 <b>Redirect</b><br>
 - [Competition Log](https://github.com/jasonheesanglee/kaggle)<br>
 - [Theoretical Study Log](https://github.com/jasonheesanglee/theoretical_study)
-- [ChatGirlFriend](https://github.com/jasonheesanglee/chatgirlfriend)
+- [ChatDateParner](https://github.com/jasonheesanglee/chatgirlfriend)
 
 -------------
 <b>CV & Portfolio</b><br>
