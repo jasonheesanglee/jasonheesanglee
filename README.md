@@ -46,11 +46,9 @@
 
 -------------
 <b>CV & Portfolio</b><br>
-- Please find my CV here : [ENGLISH](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV.pdf) or [KOREAN](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV_KR.pdf)<br>
-- Please find my Portfolio here : [ENGLISH](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_EN.pdf) or [KOREAN](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_KR.pdf)<br>
-
+- Please find my CV [HERE](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Heesang%20Lee_CV.pdf)<br>
+- Please find my Portfolio [HERE](https://github.com/jasonheesanglee/CV_and_Portfolio/blob/main/Jason%20Heesang%20Lee%20Portfolio_EN.pdf)<br>
 <sub>Disclaimer: Most of my work can be found on Kaggle.<br>You can also find me here.<sub>
-
 
 <a href="https://www.linkedin.com/in/jasonheesanglee/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/LI-In-Bug.png" height="20"></a>
 <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"></a>
