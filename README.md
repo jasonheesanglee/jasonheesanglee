@@ -1,4 +1,5 @@
 <div align="center">
+  <img height=120 src="https://github.com/user-attachments/assets/e5a623f8-7228-44f1-bca2-f9b2dcc1e8da"><br>
   <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/master@192.png" width="50" /> 
 </div>
 <div align="center">
@@ -8,6 +9,7 @@
     
 <br><br>
 <div align="center">
+
   <b>Languages & Stacks</b><br>
   
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
