@@ -1,7 +1,7 @@
 <div align="center">
   <img height=120 src="https://github.com/user-attachments/assets/e5a623f8-7228-44f1-bca2-f9b2dcc1e8da"><br>
   <a href="https://www.kaggle.com/jasonheesanglee"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="100" /> <img src="https://www.kaggle.com/static/images/tiers/master@192.png" width="50" /> 
-</div>
+</div> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonheesanglee&show_icons=true&hide_border=true" />
 
