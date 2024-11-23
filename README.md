@@ -39,6 +39,7 @@
 - Natural Language Processing<br>
 - [Phonogram & Ideogram Based Language Processing](https://www.kaggle.com/code/jasonheesanglee/ideogram-based-vs-phonogram-based-language)
 - ChatBot with Emotion
+- JoyLabs
 
 -------------
 <b>Redirect</b><br>
