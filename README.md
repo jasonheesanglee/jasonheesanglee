@@ -29,9 +29,9 @@
 
 -------------
 <b>Who am I?</b>
-- Through technology to enable people with disabilities to live barrier-free lives.<br>
+- Aims to add value to recording daily life.<br>
 - Interested in new languages and cultures.<br>
-- Fluent in 3 languages 🇰🇷 🇺🇸 🇨🇳<br>Able to communicate in 2 other languages as well 🇫🇷 🇮🇩.<br>
+- Have been to 27 countries🌏, and fluent in 3 languages 🇰🇷 🇺🇸 🇨🇳<br>Able to communicate in 2 other languages as well 🇫🇷 🇮🇩.<br>
 - Printed `Hello, World!` for the first time in March 2023.
 
 -------------
